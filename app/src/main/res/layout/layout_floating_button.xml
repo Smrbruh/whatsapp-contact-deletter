@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="56dp"
+    android:layout_height="56dp">
+
+    <!-- Shadow layer -->
+    <View
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:background="@drawable/fab_shadow"
+        android:layout_gravity="center" />
+
+    <!-- FAB circle -->
+    <View
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:background="@drawable/fab_circle_bg"
+        android:layout_gravity="center" />
+
+    <!-- Icon text -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="✕"
+        android:textSize="22sp"
+        android:textColor="#0D1117"
+        android:textStyle="bold"
+        android:includeFontPadding="false" />
+
+</FrameLayout>

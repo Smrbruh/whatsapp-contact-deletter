@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact Remover</string>
+    <string name="accessibility_service_label">Contact Remover Overlay</string>
+    <string name="accessibility_service_description">Позволяет автоматизировать удаление контактов в WhatsApp Business</string>
+</resources>

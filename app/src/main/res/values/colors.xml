@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme base -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="card_dark">#161B22</color>
+    <color name="card_accent">#0D1F12</color>
+    <color name="panel_header">#161B22</color>
+    <color name="panel_bg">#1C2128</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_dim">#6E7681</color>
+
+    <!-- Accent -->
+    <color name="accent_green">#3FB950</color>
+    <color name="accent_green_dim">#1A3620</color>
+    <color name="accent_red">#F85149</color>
+    <color name="accent_red_dim">#3D1A19</color>
+
+    <!-- UI elements -->
+    <color name="divider">#21262D</color>
+    <color name="btn_outline">#21262D</color>
+    <color name="input_bg">#0D1117</color>
+    <color name="status_on">#3FB950</color>
+    <color name="status_off">#F85149</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- System colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#3FB950</color>
+    <color name="colorPrimaryDark">#0D1117</color>
+    <color name="colorAccent">#3FB950</color>
+</resources>
