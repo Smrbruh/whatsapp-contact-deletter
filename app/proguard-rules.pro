@@ -1,0 +1,3 @@
+-keep class kz.aitu.contactremover.** { *; }
+-keep class kz.aitu.contactremover.service.** { *; }
+-keepclassmembers class * implements android.os.Parcelable { *; }
